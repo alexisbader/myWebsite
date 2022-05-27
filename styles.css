@@ -1,0 +1,190 @@
+body {
+    background-color: #02072e;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+
+  h1 {
+    color: white;
+    opacity: 90%;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    font-size: 100px;
+    font-weight: 500;
+    line-height: 0px;
+  }
+
+  h2 {
+    color: #00ffea;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 0%;
+    font-weight: 100;
+  }
+
+  h3 {
+    color: white;
+    font-size: 30px;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    opacity: 90%;
+    font-weight: 500;
+    margin-right: 10%;
+  }
+
+  h4 {
+    color: white;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    line-height: 0%;
+    opacity: 90%;
+  }
+
+  h5 {
+    color: white;
+    font-size: 30px;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    opacity: 55%;
+    font-weight: 500;
+    line-height: 2px;
+  }
+  
+
+  li {
+    color: rgb(184, 181, 181);
+    list-style: circle;
+  }
+
+  p {
+    color: white;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    font-weight: 400;
+    line-height: 150%;
+    opacity: 60%;
+  }
+
+  a {
+    color: #00ffea;
+    text-decoration: none;
+    opacity: 90%;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+  }
+
+  b {
+    color: #00ffea;
+    opacity: 100%;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+  }
+
+  hr {
+    margin-left: 10%;
+    opacity: 25%;
+    width: 50%;
+    float: left;
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+
+   .topnav {
+     margin-right: 0%;
+   }
+
+  .topnav {
+    background-color: none;
+    overflow: hidden;
+    width: 100%;
+    top: 0;
+  }
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    margin-right: 30px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+  }
+
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    font-weight: 300;
+    color: #00ffea;
+  }
+
+  .email a {
+    writing-mode: vertical-lr;
+    position: fixed;
+    float: right, bottom;
+    color: #00ffea;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 95%;
+    margin-top: 31%;
+    font-size: small;
+  }
+
+  .logo {
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+   }
+
+   .name {
+    margin-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    page-break-after: always;
+  }
+
+  .profile {
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-right: 15%;
+    margin-top: 17%;
+    object-position: 100%, 50%;
+  }
+
+   .intro {
+    margin-left: 15%;
+     padding-top: 20%;
+     padding-bottom: 17%;
+     margin-right: 55%;
+   }
+
+   .experience {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 7%
+   }
+
+   .projects {
+    padding-top: 7%;
+    margin-right: 10%;
+    margin-left: 10%;
+   }
+
+  .contactInfo h3 {
+    margin-right: 10;
+    text-align: center;
+  }
+
+  .contactInfo li {
+    list-style: none;
+    position: fixed;
+    color: #00ffea;
+    margin-top: 35%;
+    margin-bottom: 10%;
+    margin-right: 100%;
+    margin-left: 0%;
+    float: left, bottom;
+  }
+
+  
+
